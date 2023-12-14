@@ -420,7 +420,7 @@ footer .credit a {
 /* Modal Box */
 /* item detail */
 .modal {
-  display: flex;
+  display: none;
   position: fixed;
   z-index: 10000;
   left: 0;
